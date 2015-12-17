@@ -6,4 +6,4 @@ Red Hat JBoss BRMS Demo Projects
 Released versions
 -----------------
 
-- v1.0 - session delivered on Dec 16, 2015.
+- v1.0 - session delivered on Dec 17, 2015.

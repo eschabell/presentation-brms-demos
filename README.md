@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/presentation-brms-demos)
+
+
 Red Hat JBoss BRMS Demo Projects
 --------------------------------
 ![Cover Slide](https://raw.githubusercontent.com/eschabell/presentation-brms-demos/master/cover.png)
